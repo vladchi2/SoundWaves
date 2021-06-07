@@ -1,0 +1,7 @@
+
+b
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(±±Ö½ÿÿÿÿÿ8Œÿ•áï.
+b
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(¡íÖÃúÿÿÿÿ8û» áï.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç©©ó8¾ˆáï.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±”Ä ÿÿÿÿÿ8‚Ÿáï.

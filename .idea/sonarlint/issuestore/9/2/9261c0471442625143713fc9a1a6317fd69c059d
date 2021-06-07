@@ -1,0 +1,11 @@
+
+]	java:S1250"<This block of commented-out lines of code should be removed.(„„ŠÅûÿÿÿÿ8¾Îÿàï.
+S
+java:S3655 "7Call "Optional#isPresent()" before accessing the value.(€î58ĞÌûàï.
+c
+java:S1128"FRemove this unused import 'course.project.springbackend.models.Album'.(ö½†¬8¦å¦ßï.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¦ú¡øÿÿÿÿ
+s
+java:S1128"VRemove this unused import 'course.project.springbackend.Repositories.AlbumRepository'.(ñàîº8íº–ßï.
+b
+java:S1128"ERemove this unused import 'course.project.springbackend.models.Song'.(²¹Äû8À¨Ã†ñ.

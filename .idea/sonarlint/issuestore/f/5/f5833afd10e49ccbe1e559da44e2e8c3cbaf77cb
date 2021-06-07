@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¦ú¡øÿÿÿÿ
+]	java:S125."<This block of commented-out lines of code should be removed.(Œ‚˜äÿÿÿÿÿ8‘‡€áï.
+w
+java:S1128"URemove this unused import 'course.project.springbackend.Repositories.SongRepository'.(—ðç¹ùÿÿÿÿ8ÈÈËßï.
+b
+java:S1128"ERemove this unused import 'course.project.springbackend.models.Song'.(²¹Äû8ŠœÀ†ñ.
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(¾€ÆÚ8“Òÿàï.
